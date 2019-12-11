@@ -1,0 +1,22 @@
+module UC {funcao, tX, tY, tZ, tULA};
+
+	input wire [3:0] funcao;
+	output wire [1:0] tX;
+	output wire [1:0] tY;
+	output wire [1:0] tZ;
+	output wire tULA;
+	
+	parameter clr = 4'b0000;
+	
+	always
+	begin
+		case (funcao)
+			clr:
+				tX <= 2'b11;
+				tY <= 2'b11;
+				tZ <= 2'b11;
+				tULA <= 1'b0;
+		endcase
+	end
+
+endmodule

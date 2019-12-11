@@ -1,0 +1,113 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'PC:blockPC|out[0]'
+Slack : -3.358
+TNS   : -11.667
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -1.613
+TNS   : -19.411
+
+Type  : Slow 1200mV 85C Model Setup 'Memory:blockMemory|func[0]'
+Slack : -0.195
+TNS   : -0.530
+
+Type  : Slow 1200mV 85C Model Hold 'Memory:blockMemory|func[0]'
+Slack : -1.073
+TNS   : -4.454
+
+Type  : Slow 1200mV 85C Model Hold 'PC:blockPC|out[0]'
+Slack : -0.796
+TNS   : -1.983
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : 0.113
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -18.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'PC:blockPC|out[0]'
+Slack : 0.390
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Memory:blockMemory|func[0]'
+Slack : 0.406
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'PC:blockPC|out[0]'
+Slack : -3.148
+TNS   : -10.814
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -1.366
+TNS   : -15.831
+
+Type  : Slow 1200mV 0C Model Setup 'Memory:blockMemory|func[0]'
+Slack : -0.118
+TNS   : -0.183
+
+Type  : Slow 1200mV 0C Model Hold 'Memory:blockMemory|func[0]'
+Slack : -0.982
+TNS   : -3.990
+
+Type  : Slow 1200mV 0C Model Hold 'PC:blockPC|out[0]'
+Slack : -0.703
+TNS   : -1.756
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : -0.070
+TNS   : -0.096
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -18.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'PC:blockPC|out[0]'
+Slack : 0.443
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Memory:blockMemory|func[0]'
+Slack : 0.481
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'PC:blockPC|out[0]'
+Slack : -1.945
+TNS   : -6.902
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -0.525
+TNS   : -4.299
+
+Type  : Fast 1200mV 0C Model Setup 'Memory:blockMemory|func[0]'
+Slack : 0.228
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Memory:blockMemory|func[0]'
+Slack : -0.634
+TNS   : -2.827
+
+Type  : Fast 1200mV 0C Model Hold 'PC:blockPC|out[0]'
+Slack : -0.448
+TNS   : -1.228
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : -0.196
+TNS   : -0.541
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -18.822
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Memory:blockMemory|func[0]'
+Slack : 0.363
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'PC:blockPC|out[0]'
+Slack : 0.368
+TNS   : 0.000
+
+------------------------------------------------------------
